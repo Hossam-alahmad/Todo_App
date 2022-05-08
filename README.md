@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-Only use termenal to install npm node_module
+Only use termenal to install npm node_module use this command 
 
-### `npm start`
+### `npm install`
+
+
 
